@@ -1,0 +1,19 @@
+MyInfo {
+
+    
+    public static void main(String[] args) {
+         String course = "Computer Science"; 
+    String name = "Brian Okumu";
+    String dob = "1999-02-15"; 
+    String vision = "20/20";
+    String favLang = "Php";
+
+    System.out.println("Course: " + course);
+    System.out.println("Name: " + name);
+    System.out.println("Date of Birth: " + dob);
+    System.out.println("Vision: " + vision);
+    System.out.println("Favorite Language: " + favLang);
+
+    }
+    
+}
